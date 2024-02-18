@@ -10,3 +10,6 @@
 ### insightface安装先安装Visual Studio并安装c++桌面开发以及通用的win通用平台生成工具
 
 
+
+# 加载成功标志
+![189a045c8467c2bf4016877801aa88c](https://github.com/xiaoxiaodesha/hd_node/assets/20954135/a63c8791-c602-4636-8a2f-e41362068339)
